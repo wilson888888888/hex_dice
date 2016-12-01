@@ -1,2 +1,8 @@
 # hex_dice
-simulates rolling dice and averaging points on hexagon
+So if you have this hexagon right
+and each of the six vertices are numbers 1-6
+and then you roll a dice
+and each roll of the dice you put a point on the hexagon halfway between the vertex you rolled and the previous point
+you get what this program is simulating
+
+it makes a cool pattern im sure you could use math to explain why if you really had nothing better to do
